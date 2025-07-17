@@ -1,0 +1,20 @@
+git commands :- 
+
+first time upload :-
+
+1>git init
+2>git status
+3>git add .
+4>git commit -m"your_comment_here"
+5>git branch -M branch_main
+6>git remote add origin <add your repo link here>
+7>git push -u origin branch_name
+
+second time upload :-
+
+1>git status
+2>git add .
+3>git commit -m"your_comment_here"
+4>git branch -M branch_main(not requerid for a same branch)
+5>git push -u origin branch_name
+
